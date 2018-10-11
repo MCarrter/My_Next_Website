@@ -1,5 +1,14 @@
+/*Red border-surrounding the text*/
 body {
-	border:10px solid black; background-color: #00FF00; 
+	border:5px solid red;
+}
+
+/*Code for the top header*/
+header{
+	background-color:red;
+	text-color:black;
+	text-align:center;
+	padding:10px;
 }
 
 div
