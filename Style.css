@@ -11,8 +11,9 @@ header{
 	padding:10px;
 }
 
-div1	{
+/*Code to use on most text in the website*/
+div1{
 	background-color:red;
 	text-color:black;
 	border:5px solid red;
-	}
+}
