@@ -13,7 +13,7 @@ header{
 
 /*Code to use on most text in the website*/
 text {
-	background-color:#F1F1F1;
+	background-color:white;
 	text-color:black;
 	border:5px solid red;
 	margin 20px,10px,20px,10px
