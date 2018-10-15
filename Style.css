@@ -12,7 +12,7 @@ header{
 }
 
 /*Code to use on most text in the website*/
-div1{
+div 1{
 	background-color:red;
 	text-color:black;
 	border:5px solid red;
