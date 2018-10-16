@@ -47,6 +47,8 @@ body {
 
 .column {
     float: left;
+	background-color: red;
+	border: 5px white;
 }
 
 /* Left and right column */
