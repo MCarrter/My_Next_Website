@@ -17,3 +17,8 @@ body {
 	text-color:black;
 	border:5px solid red;
 }
+
+/*Code to make text larger*/
+.large	{
+	font-size: 130%
+}
