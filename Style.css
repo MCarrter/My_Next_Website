@@ -53,7 +53,10 @@ body {
 
 /* Left and right column */
 .column.side {
-    width: 25%;
+        float: left;
+	width: 25%;
+	background-color: red;
+	border: 5px white;
 }
 
 /* Middle column */
