@@ -61,8 +61,8 @@ body {
 
 /* Middle column */
 .middle_column {
-    width: 50%;
-	float: center;
+    width: 48%;
+	float: middle;
 	background-color: red;
 	border: 5px white;
 }
