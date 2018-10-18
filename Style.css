@@ -63,6 +63,8 @@ body {
 .middle_column {
     width: 50%;
 	float: center;
+	background-color: red;
+	border: 5px white;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
