@@ -60,7 +60,8 @@ body {
 /* Middle column */
 .middle {
    	width: 48%;
-	float: middle;
+	float: center;
+	text-allign: center;
 	background-color: red;
 }
 
