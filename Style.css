@@ -48,7 +48,6 @@ body {
 .column {
     float: left;
 	background-color: red;
-	border: 5px white;
 }
 
 /* Left and right column */
@@ -56,7 +55,6 @@ body {
         float: right;
 	width: 25%;
 	background-color: red;
-	border: 5px white;
 }
 
 /* Middle column */
@@ -64,7 +62,6 @@ body {
    	width: 48%;
 	float: middle;
 	background-color: red;
-	border: 5px white;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
