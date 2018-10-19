@@ -51,14 +51,14 @@ body {
 }
 
 /* Left and right column */
-.side_column {
+.side column {
         float: right;
 	width: 25%;
 	background-color: red;
 }
 
 /* Middle column */
-.middle_column {
+.middle column {
    	width: 48%;
 	float: middle;
 	background-color: red;
