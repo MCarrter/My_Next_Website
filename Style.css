@@ -91,3 +91,10 @@ body {
         width: 100%;
     }
 }
+
+/*What appears on the bottom of the website*/
+.footer {
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+}
