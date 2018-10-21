@@ -106,9 +106,16 @@ body2 {
     }
 }
 
-/*What appears on the bottom of the website*/
+/*What appears on the bottom of the page*/
 .footer {
     background-color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+/*What appears on the bottom of the second page*/
+.footer2 {
+    background-color: blue;
     text-align: center;
     padding: 10px;
 }
