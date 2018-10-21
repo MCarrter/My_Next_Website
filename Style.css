@@ -11,6 +11,20 @@ body {
 	border:5px solid red;
 }
 
+/*Blue border-surrounding the text*/
+body2 {
+	border:5px solid blue;
+}
+
+/*Code for the second top header*/
+.header2 {
+  	background-color: blue;
+	text-align: center;
+   	padding: 20px;
+	border:5px solid blue;
+}
+
+
 /*Code to use on most text in the website*/
 .text {
 	background-color:white;
