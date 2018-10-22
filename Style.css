@@ -45,6 +45,7 @@ body {
     color: white;
 }
 
+/*Column Allignment and Color*/
 .column {
     float: left;
 	background-color: red;
