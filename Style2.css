@@ -45,6 +45,7 @@ body {
     color: white;
 }
 
+/*Column Alignment and Code*/
 .column {
     float: left;
 	background-color: blue;
